@@ -10238,3 +10238,11 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+.mm{
+  font-size: 30px;
+  font-weight: bold
+}
+.mmm{
+  font-size: 25px;
+  font-weight: bold
+}
