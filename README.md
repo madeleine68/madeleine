@@ -1,3 +1,3 @@
 # Portfolio
 This is my personal website.
-Personal peoject 
+Personal peojects and link to articles 
